@@ -17,6 +17,7 @@ Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de vo
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
 
+## Bounyad zijn deel samenvatting bevindingen SV Hillegom
 https://www.svhillegom.nl/
 
 Keyboard test: Ik zie dat je niet kan zien waar je naartoe gaat als je gaat tabben of met de keyboard navigeert, je ziet wel de namen van de links en wat de link naam daadwerkelijk is vergeleken met de benaming op de website, maar je hebt geen idee waar je bent omdat de website dat niet laat zien
